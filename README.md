@@ -55,7 +55,7 @@ I don’t just code or research. I **engineer ideas**, **design models**, **buil
 
 | Project Name | Summary |
 |--------------|---------|
-| [Quantum Teleportation Protocol](https://github.com/HeetTrivedi/quantum-teleportation) | Qiskit code + research paper + protocol diagram for quantum state transfer. |
+| [Quantum Teleportation Protocol](https://github.com/heet25itachi/Quantum_Computing-) | Qiskit code + research paper + protocol diagram for quantum state transfer. |
 ---
 
 ### 🛠 Tech Stack
