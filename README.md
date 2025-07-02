@@ -24,7 +24,7 @@ I don’t just code or research. I **engineer ideas**, **design models**, **buil
 
 - Consistently mastered **1180+ algorithms** widely used in the US technical and research domains.
 - Strong grasp of a diverse set of programming languages and technologies, including:  
-  `C`, `C++`, `C3`, `Golang`, `Python`, `Cirq`, `Kotlin`, `Ruby`, `Perl`, `Rust`, `Solidity`, `Java`, `MATLAB`, and many others.
+  `C`, `C++`, `C#`, `Golang`, `Python`, `Cirq`, `Kotlin`, `Ruby`, `Perl`, `Rust`, `Solidity`, `Java`, `MATLAB`, and many others.
 
 ---
 
