@@ -56,6 +56,7 @@ I don’t just code or research. I **engineer ideas**, **design models**, **buil
 | Project Name | Summary |
 |--------------|---------|
 | [Quantum Teleportation Protocol](https://github.com/heet25itachi/Quantum_Computing-) | Qiskit code + research paper + protocol diagram for quantum state transfer. |
+|[SOLIS PROJECT] (https://github.com/heet25itachi/SOLIS-PROJECT) | Having an first step in real implementation on Dyson Sphere tech with the computational and with it Huge scenario's and research as in market, not that much person are available for this project and Tech everyone do hypothesis, while I'm the first to actually step into it i'm the founder/discoverer of this tech in Real implification. |
 ---
 
 ### 🛠 Tech Stack
