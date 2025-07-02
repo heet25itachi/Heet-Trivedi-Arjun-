@@ -41,9 +41,8 @@ I don’t just code or research. I **engineer ideas**, **design models**, **buil
 | 💼 Business Strategy   | Expertise in business models, market fit, pitch decks, and scalability design |
 | 🎨 Creative Design     | Mastery in sketch making for my creativity e.g., making an sketches on anime character or scenario's, or nature or making an dilsuional sketches |
 | 🎹 Musical Composition | Skilled instrumentalist with strong sense of rhythm, harmony, and structure  |
-| 🌌 Aerospace & Aeronautics | Knowledge in aerospace computing, parallel computing, and advanced systems modeling                   |
-| 🛡 Cybersecurity & Cryptography | Understanding of modern cryptographic protocols and cybersecurity frameworks                        |
-
+| 🌌 Aerospace & Aeronautics | Knowledge in aerospace computing, parallel computing, and advanced systems modeling |
+| 🛡 Cybersecurity & Cryptography | Understanding of modern cryptographic protocols and cybersecurity frameworks |
 ---
 
 ### 🔭 Current Missions
